@@ -3,6 +3,6 @@ In this task, a sophisticated web form has been crafted to enhance user authenti
 ### Getting Started
 
 In the project directory :
-  - cd client
+  - cd client1
   - npm install
   - npm start
